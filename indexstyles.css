@@ -1,0 +1,36 @@
+
+  <!DOCTYPE html>
+<html>
+<head>
+body {
+  background-color: LIGHTPINK;
+}
+h1 {
+    font-family: futura;
+    text-align: center;
+    color: white;
+  font-size: 100pt;
+  }
+p { 
+  font-family: futura;
+  color: white;
+  font-size: 40pt;
+  text-align: center;
+
+.h10{
+  font-familiy: futura;
+  colour: white;
+ display: inline-block;
+  margin: 1em;
+ 
+  }
+  
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
