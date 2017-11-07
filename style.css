@@ -1,0 +1,14 @@
+body {
+  background-color: LIGHTPINK;
+}
+div {
+  background-color: white;
+     outline: solid white;
+}
+
+p { 
+  font-family: futura;
+  color: lightpink;
+  font-size: 40pt;
+  text-align: down;
+  margin-left: 10px;
